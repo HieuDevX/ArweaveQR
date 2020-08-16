@@ -1,0 +1,9 @@
+{
+  "short_name": "Ar",
+  "name": "Ar",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#57b560",
+  "background_color": "#ffffff"
+}

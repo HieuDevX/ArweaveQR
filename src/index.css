@@ -1,0 +1,16 @@
+* { margin: 0; padding: 0; text-decoration: none; list-style-type: none; }
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Cabin, Helvetica, Arial, sans-serif;
+}
+
+button {
+  border: none;
+  font-family: Cabin, sans-serif;
+  cursor: pointer;
+}
